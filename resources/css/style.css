@@ -1,0 +1,51 @@
+html {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    color: gray;
+    font-size: 21px;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    text-align: center;
+}
+
+.icon {
+    text-align: center;
+}
+
+.photo {
+    margin-bottom: 25px;
+}
+
+#blurb {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
